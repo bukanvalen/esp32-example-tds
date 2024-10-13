@@ -1,1 +1,2 @@
-# esp32-example-tds
+# ESP32 TDS Sensor Example
+Print TDS sensor value
